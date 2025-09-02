@@ -25,14 +25,14 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50" style="background:white; padding:5px; border-radius:8px;"/>
   </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" style="background:white; padding:5px; border-radius:8px;"/>
+  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="50" height="50" style="background:white; padding:5px; border-radius:8px;"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="50" height="50" style="background:white; padding:5px; border-radius:8px;"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" style="background:white; padding:5px; border-radius:8px;"/>
   </a>
 </p>
 
@@ -43,17 +43,23 @@
   <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring boot" width="50" height="50" style="background:white; padding:5px; border-radius:8px;"/>
   </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="50" height="50" style="background:white; padding:5px; border-radius:8px;"/>
+  <a href="https://docs.oracle.com/en/java/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50" style="background:white; padding:5px; border-radius:8px;"/>
   </a>
   <a href="https://www.php.net/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50" style="background:white; padding:5px; border-radius:8px;"/>
   </a>
-  <a href="https://docs.oracle.com/en/java/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50" style="background:white; padding:5px; border-radius:8px;"/>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="50" height="50" style="background:white; padding:5px; border-radius:8px;"/>
   </a>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50" style="background:white; padding:5px; border-radius:8px;"/>
+  </a>
+  <a href="https://godotengine.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" alt="gdscript" width="50" height="50" style="background:white; padding:5px; border-radius:8px;"/>
+  </a>
+  <a href="https://dart.dev/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="50" height="50" style="background:white; padding:5px; border-radius:8px;"/>
   </a>
 </p>
 
@@ -67,9 +73,6 @@
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="50" height="50" style="background:white; padding:5px; border-radius:8px;"/>
   </a>
-  <a href="https://dart.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="50" height="50" style="background:white; padding:5px; border-radius:8px;"/>
-  </a>
 </p>
 
 ---
@@ -79,8 +82,28 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50" style="background:white; padding:5px; border-radius:8px;"/>
   </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" 
+         alt="docker" width="50" height="50" 
+         style="background:white; padding:5px; border-radius:8px;"/>
+  </a>
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50" style="background:white; padding:5px; border-radius:8px;"/>
+  </a>
+  <a href="https://jwt.io/" target="_blank" rel="noreferrer">
+    <img src="https://jwt.io/img/pic_logo.svg" 
+         alt="jwt" width="50" height="50" 
+         style="background:white; padding:5px; border-radius:8px;"/>
+  </a>
+  <a href="https://axios-http.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/axios/axios-icon.svg" 
+         alt="axios" width="50" height="50" 
+         style="background:white; padding:5px; border-radius:8px;"/>
+  </a>
+  <a href="https://junit.org/" target="_blank" rel="noreferrer">
+    <img src="https://junit.org/junit5/assets/img/junit5-logo.png" 
+         alt="junit" width="50" height="50" 
+         style="background:white; padding:5px; border-radius:8px;"/>
   </a>
   <a href="https://maven.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" alt="maven" width="50" height="50" style="background:white; padding:5px; border-radius:8px;"/>
@@ -97,6 +120,12 @@
   <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="50" height="50" style="background:white; padding:5px; border-radius:8px;"/>
   </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" 
+         alt="figma" width="50" height="50" 
+         style="background:white; padding:5px; border-radius:8px;"/>
+  </a>
+
 </p>
 
 
