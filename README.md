@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Clark Kent Raguhos </h1>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=xakeno&label=Profile%20views&color=0e75b6&style=flat" alt="xakeno" /> </p>
 
-<h3 align="center">Hi, I’m currently a student at UMAK. I have a strong interest in Spring Boot(Java), but I can also handle the frontend using React.js, allowing me to build full-stack applications with both technologies.</h3>
+<h3 align="center">Hi, I’m a 3rd-year student at UMAK focused on backend development with Spring Boot (Java) and capable of building the frontend using React.js and Tailwind CSS, allowing me to develop complete full-stack applications.</h3>
 
 - 🔭 I’m currently working on **Im Currently Working on a comics flutter app with spring boot and mysql**
 
